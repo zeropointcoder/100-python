@@ -1,8 +1,8 @@
-# 100-python: 100 Python projects
+# 100 Python projects
 
 | # | Project Name | Difficulty | Focus Area |
 |---|---------------|-------------|-------------|
-| 1 | Hello World CLI | Easy | Basics / Syntax |
+| 1 | [Hello World CLI](https://github.com/zeropointcoder/100-python/hello-world-cli) | Easy | Basics / Syntax |
 | 2 | Temperature Converter | Easy | Input / Output |
 | 3 | Simple Calculator | Easy | Arithmetic / Functions |
 | 4 | Number Guessing Game | Easy | Loops / Conditionals |
